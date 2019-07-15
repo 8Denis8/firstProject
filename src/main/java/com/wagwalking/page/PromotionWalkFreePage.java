@@ -11,19 +11,22 @@ public class PromotionWalkFreePage extends BasePage {
     }
 
     @FindBy(css = "input[type=\"email\"]")
-    WebElement emailField;
+    private WebElement emailField;
 
     @FindBy(css = "input[type=\"password\"]")
-    WebElement passwordField;
+    private WebElement passwordField;
 
     @FindBy(css = "input[name=\"firstName\"]")
-    WebElement firstNameField;
+    private WebElement firstNameField;
 
     @FindBy(css = "input[name=\"lastName\"]")
-    WebElement lastNameField;
+    private WebElement lastNameField;
 
     @FindBy(css = "input[type=\"tel\"]")
-    WebElement cellFonField;
+    private WebElement cellFonField;
+
+    @FindBy(css = ".sc-bdVaJa.sc-iwsKbI.kOShw")
+    private WebElement reqiuredEmailField;
 
     public void inputEmail(String email) {
         emailField.sendKeys(email);
@@ -44,4 +47,29 @@ public class PromotionWalkFreePage extends BasePage {
     public void inputCellFonField(String cellFon) {
         cellFonField.sendKeys(cellFon);
     }
+
+    public void clickEmailField() {
+        emailField.click();
+    }
+
+    public void clickPasswordField() {
+        passwordField.click();
+    }
+
+    public void clickFirstNameField() {
+        firstNameField.click();
+    }
+
+    public void clickLastNameField() {
+        lastNameField.click();
+    }
+
+    public void clickCellFonField() {
+        cellFonField.click();
+    }
+
+    public String getRequiredEmailNote() {
+        return  reqiuredEmailField.getText();
+    }
+
 }
