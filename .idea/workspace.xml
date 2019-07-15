@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c76b4aa-fdbd-492a-95c9-419e31628e41" name="Default Changelist" comment="" />
+    <list default="true" id="7c76b4aa-fdbd-492a-95c9-419e31628e41" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -198,7 +200,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563159926076" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563161010758" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -306,7 +308,7 @@
       <workItem from="1562812392194" duration="7925000" />
       <workItem from="1562868722048" duration="4866000" />
       <workItem from="1562895499907" duration="8069000" />
-      <workItem from="1563155714301" duration="1858000" />
+      <workItem from="1563155714301" duration="2514000" />
     </task>
     <servers />
   </component>
@@ -343,7 +345,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32189000" />
+    <option name="totallyTimeSpent" value="32845000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="857" extended-state="0" />
