@@ -1,0 +1,9 @@
+package com.wagwalking;
+
+public class User extends ParentalUser {
+
+    public User(String email, String password, String firstName, String lastName, String cellFon) {
+        super(email, password, firstName, lastName, cellFon);
+    }
+
+}
