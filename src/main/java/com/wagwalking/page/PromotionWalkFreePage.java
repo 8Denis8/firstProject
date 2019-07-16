@@ -30,6 +30,22 @@ public class PromotionWalkFreePage extends BasePage {
     @FindBy(css = ".sc-bdVaJa.sc-iwsKbI.kOShw")
     private List<WebElement> requiredFields;
 
+    /**
+     [0]-email required
+     [1]-firstName required
+     [2]-lastName required
+     [3]-cellFon required
+     **/
+
+    @FindBy(css = ".sc-gzVnrw.fzplxK")
+    private List<WebElement> verifyPassword;
+
+    /**
+    [0]-(8 Characters,
+    [1]-1 Letter,
+    [2]-1 Number)
+     **/
+
     public void inputEmail(String email) {
         emailField.sendKeys(email);
     }
@@ -84,5 +100,17 @@ public class PromotionWalkFreePage extends BasePage {
 
     public String getRequiredCellFonNote() {
         return requiredFields.get(3).getText();
+    }
+
+    public String getVerifyPasswordCharactrs() {
+        return verifyPassword.get(0).getText();
+    }
+
+    public String getVerifyPasswordLetter() {
+        return verifyPassword.get(1).getText();
+    }
+
+    public String getVerifyPasswordNumber() {
+        return verifyPassword.get(2).getText();
     }
 }

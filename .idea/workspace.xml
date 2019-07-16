@@ -5,8 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/wagwalking/page/PromotionWalkFreePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wagwalking/page/PromotionWalkFreePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/wagwalking/VerifyRequiredFieldsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/wagwalking/VerifyRequiredFieldsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wagwalking/page/PromotionWalkFreePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wagwalking/page/PromotionWalkFreePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/wagwalking/VerifyRequiredFieldsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/wagwalking/VerifyRequiredFieldsTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -34,11 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/wagwalking/VerifyRequiredFieldsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="492">
-              <caret line="33" column="53" selection-start-line="33" selection-start-column="53" selection-end-line="33" selection-end-column="53" />
+            <state relative-caret-position="418">
+              <caret line="54" column="55" lean-forward="true" selection-start-line="54" selection-start-column="55" selection-end-line="54" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -46,15 +44,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/wagwalking/page/PromotionWalkFreePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="95" column="5" lean-forward="true" selection-start-line="95" selection-start-column="5" selection-end-line="95" selection-end-column="5" />
+            <state relative-caret-position="-692">
+              <caret line="40" column="44" lean-forward="true" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1905#1906#0" expanded="true" />
-                <element signature="e#1941#1942#0" expanded="true" />
+                <element signature="e#1100#1101#0" expanded="true" />
+                <element signature="e#1142#1143#0" expanded="true" />
+                <element signature="e#1192#1193#0" expanded="true" />
+                <element signature="e#1240#1241#0" expanded="true" />
+                <element signature="e#1292#1293#0" expanded="true" />
+                <element signature="e#1342#1343#0" expanded="true" />
+                <element signature="e#1392#1393#0" expanded="true" />
+                <element signature="e#1440#1441#0" expanded="true" />
+                <element signature="e#1493#1494#0" expanded="true" />
+                <element signature="e#1539#1540#0" expanded="true" />
+                <element signature="e#1576#1577#0" expanded="true" />
+                <element signature="e#1610#1611#0" expanded="true" />
+                <element signature="e#1650#1651#0" expanded="true" />
+                <element signature="e#1687#1688#0" expanded="true" />
+                <element signature="e#1728#1729#0" expanded="true" />
+                <element signature="e#1766#1767#0" expanded="true" />
+                <element signature="e#1806#1807#0" expanded="true" />
+                <element signature="e#1843#1844#0" expanded="true" />
+                <element signature="e#1882#1883#0" expanded="true" />
+                <element signature="e#1918#1919#0" expanded="true" />
+                <element signature="e#1962#1963#0" expanded="true" />
+                <element signature="e#2017#2018#0" expanded="true" />
+                <element signature="e#2065#2066#0" expanded="true" />
+                <element signature="e#2119#2120#0" expanded="true" />
+                <element signature="e#2166#2167#0" expanded="true" />
+                <element signature="e#2220#2221#0" expanded="true" />
+                <element signature="e#2266#2267#0" expanded="true" />
+                <element signature="e#2320#2321#0" expanded="true" />
+                <element signature="e#2414#2415#0" expanded="true" />
+                <element signature="e#2450#2451#0" expanded="true" />
+                <element signature="e#2519#2520#0" expanded="true" />
+                <element signature="e#2555#2556#0" expanded="true" />
+                <element signature="e#2624#2625#0" expanded="true" />
+                <element signature="e#2660#2661#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -134,8 +164,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/wagwalking/page/HomePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/wagwalking/WalkFreeTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/wagwalking/BaseTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/wagwalking/VerifyRequiredFieldsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wagwalking/page/PromotionWalkFreePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wagwalking/VerifyRequiredFieldsTest.java" />
       </list>
     </option>
   </component>
@@ -240,7 +270,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563245682440" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563248823779" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -366,26 +396,11 @@
       <workItem from="1562868722048" duration="4866000" />
       <workItem from="1562895499907" duration="8069000" />
       <workItem from="1563155714301" duration="8667000" />
-      <workItem from="1563243624347" duration="1450000" />
+      <workItem from="1563243624347" duration="4634000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="WalkFreeTest_WalkFreeTest - 2019.07.11 at 21h 42m 59s.xml">
-      <configuration name="WalkFreeTest.WalkFreeTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="WalkFreeTest_WalkFreeTest - 2019.07.14 at 19h 06m 21s.xml">
-      <configuration name="WalkFreeTest.WalkFreeTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="WalkFreeTest_WalkFreeTest - 2019.07.14 at 19h 07m 25s.xml">
-      <configuration name="WalkFreeTest.WalkFreeTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="VerifyRequiredFieldsTest_testVerifyRequiredFields - 2019.07.14 at 21h 05m 24s.xml">
-      <configuration name="VerifyRequiredFieldsTest.testVerifyRequiredFields" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="VerifyRequiredFieldsTest_testVerifyRequiredFields - 2019.07.14 at 21h 13m 26s.xml">
-      <configuration name="VerifyRequiredFieldsTest.testVerifyRequiredFields" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="VerifyRequiredFieldsTest_testVerifyRequiredFields - 2019.07.14 at 21h 18m 39s.xml">
       <configuration name="VerifyRequiredFieldsTest.testVerifyRequiredFields" configurationId="JUnit" />
     </history-entry>
@@ -401,9 +416,24 @@
     <history-entry file="VerifyRequiredFieldsTest_testVerifyRequiredFields - 2019.07.15 at 19h 25m 03s.xml">
       <configuration name="VerifyRequiredFieldsTest.testVerifyRequiredFields" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="VerifyRequiredFieldsTest_testVerifyRequiredFields - 2019.07.15 at 19h 53m 39s.xml">
+      <configuration name="VerifyRequiredFieldsTest.testVerifyRequiredFields" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VerifyRequiredFieldsTest_testVerifyRequiredFields - 2019.07.15 at 20h 29m 57s.xml">
+      <configuration name="VerifyRequiredFieldsTest.testVerifyRequiredFields" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VerifyRequiredFieldsTest_testVerifyRequiredFields - 2019.07.15 at 20h 33m 53s.xml">
+      <configuration name="VerifyRequiredFieldsTest.testVerifyRequiredFields" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VerifyRequiredFieldsTest_testVerifyRequiredFields - 2019.07.15 at 20h 37m 35s.xml">
+      <configuration name="VerifyRequiredFieldsTest.testVerifyRequiredFields" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VerifyRequiredFieldsTest_testVerifyRequiredFields - 2019.07.15 at 20h 42m 40s.xml">
+      <configuration name="VerifyRequiredFieldsTest.testVerifyRequiredFields" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40448000" />
+    <option name="totallyTimeSpent" value="43632000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="857" extended-state="0" />
@@ -595,24 +625,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/wagwalking/VerifyRequiredFieldsTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wagwalking/page/PromotionWalkFreePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="33" column="53" selection-start-line="33" selection-start-column="53" selection-end-line="33" selection-end-column="53" />
+        <state relative-caret-position="-692">
+          <caret line="40" column="44" lean-forward="true" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1100#1101#0" expanded="true" />
+            <element signature="e#1142#1143#0" expanded="true" />
+            <element signature="e#1192#1193#0" expanded="true" />
+            <element signature="e#1240#1241#0" expanded="true" />
+            <element signature="e#1292#1293#0" expanded="true" />
+            <element signature="e#1342#1343#0" expanded="true" />
+            <element signature="e#1392#1393#0" expanded="true" />
+            <element signature="e#1440#1441#0" expanded="true" />
+            <element signature="e#1493#1494#0" expanded="true" />
+            <element signature="e#1539#1540#0" expanded="true" />
+            <element signature="e#1576#1577#0" expanded="true" />
+            <element signature="e#1610#1611#0" expanded="true" />
+            <element signature="e#1650#1651#0" expanded="true" />
+            <element signature="e#1687#1688#0" expanded="true" />
+            <element signature="e#1728#1729#0" expanded="true" />
+            <element signature="e#1766#1767#0" expanded="true" />
+            <element signature="e#1806#1807#0" expanded="true" />
+            <element signature="e#1843#1844#0" expanded="true" />
+            <element signature="e#1882#1883#0" expanded="true" />
+            <element signature="e#1918#1919#0" expanded="true" />
+            <element signature="e#1962#1963#0" expanded="true" />
+            <element signature="e#2017#2018#0" expanded="true" />
+            <element signature="e#2065#2066#0" expanded="true" />
+            <element signature="e#2119#2120#0" expanded="true" />
+            <element signature="e#2166#2167#0" expanded="true" />
+            <element signature="e#2220#2221#0" expanded="true" />
+            <element signature="e#2266#2267#0" expanded="true" />
+            <element signature="e#2320#2321#0" expanded="true" />
+            <element signature="e#2414#2415#0" expanded="true" />
+            <element signature="e#2450#2451#0" expanded="true" />
+            <element signature="e#2519#2520#0" expanded="true" />
+            <element signature="e#2555#2556#0" expanded="true" />
+            <element signature="e#2624#2625#0" expanded="true" />
+            <element signature="e#2660#2661#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wagwalking/page/PromotionWalkFreePage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wagwalking/VerifyRequiredFieldsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
-          <caret line="95" column="5" lean-forward="true" selection-start-line="95" selection-start-column="5" selection-end-line="95" selection-end-column="5" />
+          <caret line="54" column="55" lean-forward="true" selection-start-line="54" selection-start-column="55" selection-end-line="54" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1905#1906#0" expanded="true" />
-            <element signature="e#1941#1942#0" expanded="true" />
           </folding>
         </state>
       </provider>
