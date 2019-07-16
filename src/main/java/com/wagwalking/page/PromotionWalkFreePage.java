@@ -4,6 +4,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
+import java.util.List;
+
 public class PromotionWalkFreePage extends BasePage {
 
     public PromotionWalkFreePage(WebDriver driver) {
@@ -26,7 +28,7 @@ public class PromotionWalkFreePage extends BasePage {
     private WebElement cellFonField;
 
     @FindBy(css = ".sc-bdVaJa.sc-iwsKbI.kOShw")
-    private WebElement reqiuredEmailField;
+    private List<WebElement> requiredFields;
 
     public void inputEmail(String email) {
         emailField.sendKeys(email);
@@ -69,7 +71,18 @@ public class PromotionWalkFreePage extends BasePage {
     }
 
     public String getRequiredEmailNote() {
-        return  reqiuredEmailField.getText();
+        return  requiredFields.get(0).getText();
     }
 
+    public String getRequiredFirstNameNote() {
+        return requiredFields.get(1).getText();
+    }
+
+    public String getRequiredLastNameNote() {
+        return requiredFields.get(2).getText();
+    }
+
+    public String getRequiredCellFonNote() {
+        return requiredFields.get(3).getText();
+    }
 }
