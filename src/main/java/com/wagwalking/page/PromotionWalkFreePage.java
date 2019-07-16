@@ -46,6 +46,12 @@ public class PromotionWalkFreePage extends BasePage {
     [2]-1 Number)
      **/
 
+    @FindBy(css = ".sc-gzVnrw.jvIbBW")
+    private WebElement next;
+
+    @FindBy(css = ".sc-bdVaJa.sc-iwsKbI.kOShw")
+    private WebElement existingEmail;
+
     public void inputEmail(String email) {
         emailField.sendKeys(email);
     }
@@ -112,5 +118,13 @@ public class PromotionWalkFreePage extends BasePage {
 
     public String getVerifyPasswordNumber() {
         return verifyPassword.get(2).getText();
+    }
+
+    public void clickButtonNext() {
+        next.click();
+    }
+
+    public String getExistingEmail() {
+        return existingEmail.getText();
     }
 }
