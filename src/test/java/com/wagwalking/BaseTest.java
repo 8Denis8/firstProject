@@ -39,7 +39,7 @@ public abstract class BaseTest {
 
         user2 = new User2("dkim+1@testpro.io", "1q2w3e4r", "Vanya", "Fotofackoff", "0987654321");
 
-        user3 = new User3("dkim+2@testpro.io", "1a2s3d4f", "Larisa", "Ivanova", "1231231231");
+        user3 = new User3("alex@gmail.com", "1a2s3d4f", "Larisa", "Ivanova", "1231231231", "8500 Beverly Blvd", "N/A", "Los Angeles", "CA", "90048");
     }
 
     @After

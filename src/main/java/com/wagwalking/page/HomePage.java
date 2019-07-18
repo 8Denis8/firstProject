@@ -13,9 +13,18 @@ public class HomePage extends BasePage {
     @FindBy(css = ".sc-ifAKCX.bCMkWd")
     WebElement walkFreeButon;
 
+    @FindBy(css = ".sc-ifAKCX.jlgKgQ")
+    WebElement becomeWalkerButon;
+
     public PromotionWalkFreePage clikWalkFreeButon() {
         walkFreeButon.click();
 
         return new PromotionWalkFreePage(driver);
+    }
+
+    public BecomeWalkerPage clikBekomeWalkerButon() {
+        becomeWalkerButon.click();
+
+        return new BecomeWalkerPage(driver);
     }
 }
