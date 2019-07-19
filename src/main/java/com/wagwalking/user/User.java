@@ -1,4 +1,4 @@
-package com.wagwalking;
+package com.wagwalking.user;
 
 public class User extends ParentalUser {
 

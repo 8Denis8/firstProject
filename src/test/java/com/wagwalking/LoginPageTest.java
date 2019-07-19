@@ -23,5 +23,13 @@ public class LoginPageTest extends BaseTest {
         String invalidEmailMessage = loginPage.getInvalidEmailMessage();
         System.out.println(invalidEmailMessage);
         Assert.assertEquals("Invalid email address", invalidEmailMessage);
+        driver.navigate().refresh();
+        loginPage.inputEmail("alex@gmail.com");
+        loginPage.inputPassword("qwe");
+        loginPage.clickLoginButon();
+        String invalidCredentials = loginPage.getInvalidCredentials();
+        System.out.println(invalidCredentials);
+        Assert.assertEquals("Invalid credentials", invalidCredentials);
+        driver.quit();
     }
 }

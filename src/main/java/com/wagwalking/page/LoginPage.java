@@ -25,6 +25,9 @@ public class LoginPage extends BasePage {
     @FindBy(css = ".invalid-feedback.d-block")
     public WebElement invalidEmailMessage;
 
+    @FindBy(css = ".LoginForm_alert__14-Lm.bootstrap_alert__3S0Lp.bootstrap_alert-warning__3q-tY")
+    public WebElement invalidCredentials;
+
     public void inputEmail(String email){
         wait.until(ExpectedConditions.elementToBeClickable(emailField));
         emailField.sendKeys(email);
@@ -43,6 +46,11 @@ public class LoginPage extends BasePage {
     public String getInvalidEmailMessage(){
         wait.until(ExpectedConditions.visibilityOfAllElements(invalidEmailMessage));
         return invalidEmailMessage.getText();
+    }
+
+    public String getInvalidCredentials(){
+        wait.until(ExpectedConditions.visibilityOfAllElements(invalidCredentials));
+        return invalidCredentials.getText();
     }
 
 //    @FindBy(css = ".sc-ifAKCX.fHUled")

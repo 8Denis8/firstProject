@@ -1,5 +1,8 @@
 package com.wagwalking;
 
+import com.wagwalking.user.User;
+import com.wagwalking.user.User2;
+import com.wagwalking.user.User3;
 import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;

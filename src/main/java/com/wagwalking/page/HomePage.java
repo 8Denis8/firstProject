@@ -20,7 +20,7 @@ public class HomePage extends BasePage {
     WebElement becomeWalkerButon;
 
     @FindBy(css = ".sc-ifAKCX.fHUled")
-    public List<WebElement> loginBiton;
+    public List<WebElement> loginButton;
 
 
 
@@ -37,7 +37,7 @@ public class HomePage extends BasePage {
     }
 
     public void clickLoginButon(){
-        wait.until(ExpectedConditions.elementToBeClickable(loginBiton.get(3)));
-        loginBiton.get(3).click();
+        wait.until(ExpectedConditions.elementToBeClickable(loginButton.get(3)));
+        loginButton.get(3).click();
     }
 }
