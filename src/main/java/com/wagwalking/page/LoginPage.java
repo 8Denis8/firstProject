@@ -25,7 +25,7 @@ public class LoginPage extends BasePage {
     @FindBy(css = ".invalid-feedback.d-block")
     public WebElement invalidEmailMessage;
 
-    @FindBy(css = ".LoginForm_alert__14-Lm.bootstrap_alert__3S0Lp.bootstrap_alert-warning__3q-tY")
+    @FindBy(css = "div[class$=\"tY\"]")
     public WebElement invalidCredentials;
 
     public void inputEmail(String email){

@@ -30,6 +30,9 @@ public class PromotionWalkFreePage extends BasePage {
     @FindBy(css = ".sc-bdVaJa.sc-iwsKbI.kOShw")
     private List<WebElement> requiredFields;
 
+    @FindBy(css = "div[class$=\"kOShw\"]")
+    private WebElement inValidEmailNote;
+
     /**
      [0]-email required
      [1]-firstName required
@@ -126,5 +129,9 @@ public class PromotionWalkFreePage extends BasePage {
 
     public String getExistingEmail() {
         return existingEmail.getText();
+    }
+
+    public String getInValidEmail(){
+        return inValidEmailNote.getText();
     }
 }
