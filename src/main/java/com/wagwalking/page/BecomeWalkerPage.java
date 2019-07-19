@@ -3,6 +3,8 @@ package com.wagwalking.page;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.ui.ExpectedCondition;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 
 import java.util.List;
 
@@ -30,13 +32,16 @@ public class BecomeWalkerPage extends BasePage {
     @FindBy(css = "input[id=\"phone\"]")
     private WebElement phoneField;
 
-    @FindBy(css = "input[id=\"address__line-one\"]")
-    private WebElement addressField;
+    @FindBy(css = "input[id=\"address__line-one\"]")        /**  @FindBy(css = ".autocomplete-result")      **/
+    private WebElement addressField;                       /**  private List<WebElement> dropDownAddress;  **/
+
+    @FindBy(css = ".autocomplete-result")
+    private List<WebElement> dropDownAddress;
 
     @FindBy(css = "input[id=\"address_line_2\"]")
     private WebElement aptField;
 
-    @FindBy(css = "input[id=\"city\"]")
+    @FindBy(css = "input[id=\"city\"]")    /**  **/
     private WebElement cityField;
 
     @FindBy(css = ".btn.common-dropdown.common-dropdown-item")
@@ -66,6 +71,7 @@ public class BecomeWalkerPage extends BasePage {
 //7: input#zipcode.form-utils-input
 
     public void clikApplyNowButton() {
+        wait.until(ExpectedConditions.elementToBeClickable(apllyNow));
         apllyNow.click();
     }
 
@@ -94,26 +100,36 @@ public class BecomeWalkerPage extends BasePage {
     }
 
     public void inputFirstNameApply(String firstName) {
+        wait.until(ExpectedConditions.elementToBeClickable(firstNameField));    /** Выжидание элемента пока он станет функциональный */
         firstNameField.sendKeys(firstName);
     }
 
     public void inputLastNameApply(String lastName) {
+        wait.until(ExpectedConditions.elementToBeClickable(lastNameField));
         lastNameField.sendKeys(lastName);
     }
 
     public void inputEmailApply(String email) {
+        wait.until(ExpectedConditions.elementToBeClickable(emailField));
         emailField.sendKeys(email);
     }
 
     public void inputPhoneApply(String phone) {
+        wait.until(ExpectedConditions.elementToBeClickable(phoneField));
         phoneField.sendKeys(phone);
     }
 
-    public void inputAddressApply(String address) {
-        addressField.sendKeys(address);
+    public void inputAddressApply(String address) {     /** public void selectAddress(int i) { */
+        wait.until(ExpectedConditions.elementToBeClickable(addressField));
+        addressField.sendKeys(address);                 /** dropDownAddress.get(i).click; */
     }
 
+    public void selectAddress(int i) {
+        wait.until(ExpectedConditions.visibilityOfAllElements(dropDownAddress));
+        dropDownAddress.get(i).click();
+    }
     public void inputAptApply(String apt) {
+        wait.until(ExpectedConditions.elementToBeClickable(aptField));
         aptField.sendKeys(apt);
     }
 
