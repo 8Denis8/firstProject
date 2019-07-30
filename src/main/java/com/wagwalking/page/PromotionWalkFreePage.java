@@ -1,8 +1,10 @@
 package com.wagwalking.page;
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 
 import java.util.List;
 
@@ -55,7 +57,13 @@ public class PromotionWalkFreePage extends BasePage {
     @FindBy(css = ".sc-bdVaJa.sc-iwsKbI.kOShw")
     private WebElement existingEmail;
 
+    public void verifyEmail(){
+        emailField.getAttribute("value");
+        driver.findElement(By.cssSelector("input[type=\"email\"]")).getText();
+    }
+
     public void inputEmail(String email) {
+        wait.until(ExpectedConditions.elementToBeClickable(emailField));
         emailField.sendKeys(email);
     }
 

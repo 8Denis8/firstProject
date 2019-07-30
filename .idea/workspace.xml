@@ -2,10 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c76b4aa-fdbd-492a-95c9-419e31628e41" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wagwalking/page/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wagwalking/page/LoginPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/wagwalking/page/PromotionWalkFreePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wagwalking/page/PromotionWalkFreePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/wagwalking/LoginPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/wagwalking/LoginPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/wagwalking/VerifyRequiredFieldsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/wagwalking/VerifyRequiredFieldsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wagwalking/page/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wagwalking/page/BasePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wagwalking/page/BecomeWalkerPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wagwalking/page/BecomeWalkerPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wagwalking/page/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wagwalking/page/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wagwalking/page/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wagwalking/page/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wagwalking/page/PromotionWalkFreePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wagwalking/page/PromotionWalkFreePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wagwalking/user/ParentalUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wagwalking/user/ParentalUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wagwalking/user/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wagwalking/user/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wagwalking/user/User2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wagwalking/user/User2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wagwalking/user/User3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wagwalking/user/User3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/wagwalking/ApplyCustomerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/wagwalking/ApplyCustomerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/wagwalking/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/wagwalking/BaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/wagwalking/BecomeWalkerRequiredFieldsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/wagwalking/BecomeWalkerRequiredFieldsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/wagwalking/ExistingEmailTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/wagwalking/ExistingEmailTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/wagwalking/InValidEmailTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/wagwalking/InValidEmailTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/wagwalking/LoginPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/wagwalking/LoginPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/wagwalking/VerifyRequiredFieldsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/wagwalking/VerifyRequiredFieldsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/wagwalking/WalkFreeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/wagwalking/WalkFreeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/wagwalking/exempl/FirstTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/wagwalking/exempl/FirstTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/wagwalking/exempl/SecondTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/wagwalking/exempl/SecondTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -36,10 +56,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/wagwalking/BaseTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/wagwalking/WalkFreeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="40" />
+            <state relative-caret-position="225">
+              <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -48,38 +68,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wagwalking/page/HomePage.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/wagwalking/VerifyTextInFieldTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#231#232#0" expanded="true" />
-                <element signature="e#260#261#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wagwalking/page/LoginPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="27" column="39" lean-forward="true" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#151#152#0" expanded="true" />
-                <element signature="e#180#181#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/wagwalking/LoginPageTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+            <state relative-caret-position="300">
+              <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,22 +80,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/wagwalking/InValidEmailTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/wagwalking/VerifyRequiredFieldsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/wagwalking/WalkFreeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+            <state relative-caret-position="14">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -114,34 +94,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/wagwalking/page/PromotionWalkFreePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1304#1305#0" expanded="true" />
-                <element signature="e#1346#1347#0" expanded="true" />
-                <element signature="e#1396#1397#0" expanded="true" />
-                <element signature="e#1444#1445#0" expanded="true" />
-                <element signature="e#1780#1781#0" expanded="true" />
-                <element signature="e#1814#1815#0" expanded="true" />
-                <element signature="e#2166#2167#0" expanded="true" />
-                <element signature="e#2221#2222#0" expanded="true" />
-                <element signature="e#2867#2868#0" expanded="true" />
-                <element signature="e#2895#2896#0" expanded="true" />
-                <element signature="e#2935#2936#0" expanded="true" />
-                <element signature="e#2981#2982#0" expanded="true" />
-                <element signature="e#3108#3109#0" expanded="true" />
-                <element signature="e#3146#3147#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wagwalking/page/BasePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="45" />
+            <state relative-caret-position="360">
+              <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -150,12 +104,26 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/wagwalking/VerifyRequiredFieldsTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/wagwalking/ApplyCustomerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="330">
+              <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wagwalking/page/LoginPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#315#316#0" expanded="true" />
+                <element signature="e#344#345#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -183,7 +151,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/wagwalking/User2.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/wagwalking/SecondTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/wagwalking/WalkFreeTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/wagwalking/VerifyRequiredFieldsTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/wagwalking/exempl/existingEmailTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/wagwalking/existingEmailTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/wagwalking/ExistingEmailTest.java" />
@@ -200,8 +167,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/wagwalking/page/LoginPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/wagwalking/LoginPageTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/wagwalking/exempl/InValidEmailTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/wagwalking/page/PromotionWalkFreePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/wagwalking/InValidEmailTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wagwalking/VerifyTextInFieldTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wagwalking/page/PromotionWalkFreePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wagwalking/VerifyRequiredFieldsTest.java" />
       </list>
     </option>
   </component>
@@ -213,9 +182,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="857" />
+    <option name="x" value="736" />
+    <option name="y" value="429" />
+    <option name="width" value="616" />
+    <option name="height" value="293" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -223,6 +193,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -287,32 +258,23 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="wagwalking" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="myFirstProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myFirstProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wagwalking" type="462c0819:PsiDirectoryNode" />
-              <item name="exempl" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563510546202" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564444097894" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -331,71 +293,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.InValidEmailTest.testInValidEmail">
-    <configuration name="ApplyCustomerTest.testApplyCustomer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="myFirstProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wagwalking.user.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.wagwalking" />
-      <option name="MAIN_CLASS_NAME" value="com.wagwalking.ApplyCustomerTest" />
-      <option name="METHOD_NAME" value="testApplyCustomer" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BecomeWalkerRequiredFieldsTest.testBecomeWalkerRequiredField" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="myFirstProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wagwalking.user.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.wagwalking" />
-      <option name="MAIN_CLASS_NAME" value="com.wagwalking.BecomeWalkerRequiredFieldsTest" />
-      <option name="METHOD_NAME" value="testBecomeWalkerRequiredField" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExistingEmailTest.testExistingEmail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="myFirstProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wagwalking.user.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.wagwalking" />
-      <option name="MAIN_CLASS_NAME" value="com.wagwalking.ExistingEmailTest" />
-      <option name="METHOD_NAME" value="testExistingEmail" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InValidEmailTest.testInValidEmail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="myFirstProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wagwalking.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.wagwalking" />
-      <option name="MAIN_CLASS_NAME" value="com.wagwalking.InValidEmailTest" />
-      <option name="METHOD_NAME" value="testInValidEmail" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.VerifyRequiredFieldsTest.testVerifyRequiredFields">
     <configuration name="LoginPageTest.testLoginPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myFirstProject" />
       <extension name="coverage">
@@ -412,13 +310,77 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VerifyRequiredFieldsTest.testVerifyRequiredFields" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myFirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wagwalking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wagwalking" />
+      <option name="MAIN_CLASS_NAME" value="com.wagwalking.VerifyRequiredFieldsTest" />
+      <option name="METHOD_NAME" value="testVerifyRequiredFields" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifyTextInFieldTest.testVerifyTextInField" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myFirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wagwalking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wagwalking" />
+      <option name="MAIN_CLASS_NAME" value="com.wagwalking.VerifyTextInFieldTest" />
+      <option name="METHOD_NAME" value="testVerifyTextInField" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifyTextInFieldTest.verifyTextInFieldTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myFirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wagwalking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wagwalking" />
+      <option name="MAIN_CLASS_NAME" value="com.wagwalking.VerifyTextInFieldTest" />
+      <option name="METHOD_NAME" value="verifyTextInFieldTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WalkFreeTest.WalkFreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myFirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wagwalking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wagwalking" />
+      <option name="MAIN_CLASS_NAME" value="com.wagwalking.WalkFreeTest" />
+      <option name="METHOD_NAME" value="WalkFreeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.InValidEmailTest.testInValidEmail" />
+        <item itemvalue="JUnit.VerifyRequiredFieldsTest.testVerifyRequiredFields" />
+        <item itemvalue="JUnit.VerifyTextInFieldTest.verifyTextInFieldTest" />
+        <item itemvalue="JUnit.WalkFreeTest.WalkFreeTest" />
         <item itemvalue="JUnit.LoginPageTest.testLoginPage" />
-        <item itemvalue="JUnit.ApplyCustomerTest.testApplyCustomer" />
-        <item itemvalue="JUnit.BecomeWalkerRequiredFieldsTest.testBecomeWalkerRequiredField" />
-        <item itemvalue="JUnit.ExistingEmailTest.testExistingEmail" />
+        <item itemvalue="JUnit.VerifyTextInFieldTest.testVerifyTextInField" />
       </list>
     </recent_temporary>
   </component>
@@ -441,50 +403,61 @@
       <workItem from="1563243624347" duration="9438000" />
       <workItem from="1563329633471" duration="11717000" />
       <workItem from="1563412458898" duration="11194000" />
-      <workItem from="1563480174214" duration="19024000" />
+      <workItem from="1563480174214" duration="19487000" />
+      <workItem from="1563689738364" duration="2254000" />
+      <workItem from="1563692915727" duration="56000" />
+      <workItem from="1563770504783" duration="146000" />
+      <workItem from="1563818733581" duration="4785000" />
+      <workItem from="1563861208344" duration="537000" />
+      <workItem from="1563912429221" duration="1452000" />
+      <workItem from="1564015358397" duration="7000" />
+      <workItem from="1564021924720" duration="1408000" />
+      <workItem from="1564028110885" duration="4041000" />
+      <workItem from="1564107867763" duration="29000" />
+      <workItem from="1564128549411" duration="570000" />
+      <workItem from="1564439679116" duration="2684000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LoginPageTest_testLoginPage - 2019.07.18 at 18h 38m 04s.xml">
-      <configuration name="LoginPageTest.testLoginPage" configurationId="JUnit" />
+    <history-entry file="VerifyTextInFieldTest_verifyTextInFieldTest - 2019.07.24 at 21h 45m 11s.xml">
+      <configuration name="VerifyTextInFieldTest.verifyTextInFieldTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginPageTest_testLoginPage - 2019.07.18 at 18h 39m 49s.xml">
-      <configuration name="LoginPageTest.testLoginPage" configurationId="JUnit" />
+    <history-entry file="VerifyTextInFieldTest_verifyTextInFieldTest - 2019.07.24 at 21h 53m 24s.xml">
+      <configuration name="VerifyTextInFieldTest.verifyTextInFieldTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginPageTest_testLoginPage - 2019.07.18 at 19h 05m 50s.xml">
-      <configuration name="LoginPageTest.testLoginPage" configurationId="JUnit" />
+    <history-entry file="VerifyTextInFieldTest_verifyTextInFieldTest - 2019.07.24 at 21h 54m 35s.xml">
+      <configuration name="VerifyTextInFieldTest.verifyTextInFieldTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginPageTest_testLoginPage - 2019.07.18 at 19h 18m 13s.xml">
-      <configuration name="LoginPageTest.testLoginPage" configurationId="JUnit" />
+    <history-entry file="VerifyTextInFieldTest_verifyTextInFieldTest - 2019.07.24 at 22h 09m 15s.xml">
+      <configuration name="VerifyTextInFieldTest.verifyTextInFieldTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginPageTest_testLoginPage - 2019.07.18 at 19h 19m 03s.xml">
-      <configuration name="LoginPageTest.testLoginPage" configurationId="JUnit" />
+    <history-entry file="VerifyTextInFieldTest_verifyTextInFieldTest - 2019.07.24 at 22h 10m 55s.xml">
+      <configuration name="VerifyTextInFieldTest.verifyTextInFieldTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginPageTest_testLoginPage - 2019.07.18 at 19h 27m 39s.xml">
-      <configuration name="LoginPageTest.testLoginPage" configurationId="JUnit" />
+    <history-entry file="VerifyTextInFieldTest_verifyTextInFieldTest - 2019.07.24 at 22h 25m 02s.xml">
+      <configuration name="VerifyTextInFieldTest.verifyTextInFieldTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginPageTest_testLoginPage - 2019.07.18 at 20h 05m 11s.xml">
-      <configuration name="LoginPageTest.testLoginPage" configurationId="JUnit" />
+    <history-entry file="VerifyRequiredFieldsTest_testVerifyRequiredFields - 2019.07.29 at 16h 33m 18s.xml">
+      <configuration name="VerifyRequiredFieldsTest.testVerifyRequiredFields" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InValidEmailTest_testInValidEmail - 2019.07.18 at 21h 10m 54s.xml">
-      <configuration name="InValidEmailTest.testInValidEmail" configurationId="JUnit" />
+    <history-entry file="VerifyRequiredFieldsTest_testVerifyRequiredFields - 2019.07.29 at 16h 35m 11s.xml">
+      <configuration name="VerifyRequiredFieldsTest.testVerifyRequiredFields" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InValidEmailTest_testInValidEmail - 2019.07.18 at 21h 11m 32s.xml">
-      <configuration name="InValidEmailTest.testInValidEmail" configurationId="JUnit" />
+    <history-entry file="VerifyRequiredFieldsTest_testVerifyRequiredFields - 2019.07.29 at 16h 44m 04s.xml">
+      <configuration name="VerifyRequiredFieldsTest.testVerifyRequiredFields" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InValidEmailTest_testInValidEmail - 2019.07.18 at 21h 24m 02s.xml">
-      <configuration name="InValidEmailTest.testInValidEmail" configurationId="JUnit" />
+    <history-entry file="VerifyRequiredFieldsTest_testVerifyRequiredFields - 2019.07.29 at 16h 44m 50s.xml">
+      <configuration name="VerifyRequiredFieldsTest.testVerifyRequiredFields" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90371000" />
+    <option name="totallyTimeSpent" value="108803000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="857" extended-state="0" />
-    <editor active="true" />
+    <frame x="736" y="429" width="616" height="293" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18884121" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.19686411" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -493,12 +466,43 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23529412" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29846153" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32941177" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.53731346" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32615384" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.3297568" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.41341653" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23529412" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.21045752" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32941177" />
@@ -513,7 +517,7 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" weight="0.3297568" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -613,44 +617,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/wagwalking/ApplyCustomerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="49" lean-forward="true" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wagwalking/page/BecomeWalkerPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1635">
-          <caret line="151" column="3" lean-forward="true" selection-start-line="151" selection-start-column="3" selection-end-line="152" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1905#1906#0" expanded="true" />
-            <element signature="e#1942#1943#0" expanded="true" />
-            <element signature="e#1990#1991#0" expanded="true" />
-            <element signature="e#2042#2043#0" expanded="true" />
-            <element signature="e#2089#2090#0" expanded="true" />
-            <element signature="e#2141#2142#0" expanded="true" />
-            <element signature="e#2186#2187#0" expanded="true" />
-            <element signature="e#2238#2239#0" expanded="true" />
-            <element signature="e#2282#2283#0" expanded="true" />
-            <element signature="e#2334#2335#0" expanded="true" />
-            <element signature="e#2375#2376#0" expanded="true" />
-            <element signature="e#2413#2414#0" expanded="true" />
-            <element signature="e#4241#4242#0" expanded="true" />
-            <element signature="e#4307#4308#0" expanded="true" />
-            <element signature="e#4366#4367#0" expanded="true" />
-            <element signature="e#4455#4456#0" expanded="true" />
-            <element signature="e#4530#4531#0" expanded="true" />
-            <element signature="e#4629#4630#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/wagwalking/user/ParentalUser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -689,6 +655,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wagwalking/InValidEmailTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/wagwalking/BecomeWalkerRequiredFieldsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -699,22 +675,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wagwalking/page/HomePage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wagwalking/BaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        <state relative-caret-position="360">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/wagwalking/BaseTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wagwalking/LoginPageTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="40" />
+        <state relative-caret-position="315">
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -723,29 +697,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/wagwalking/page/BasePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="45" />
+        <state relative-caret-position="105">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wagwalking/page/LoginPage.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wagwalking/page/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="27" column="39" lean-forward="true" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
+        <state relative-caret-position="285">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wagwalking/page/BecomeWalkerPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1187">
+          <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4201#4202#0" expanded="true" />
+            <element signature="e#4241#4242#0" expanded="true" />
+            <element signature="e#4278#4279#0" expanded="true" />
+            <element signature="e#4307#4308#0" expanded="true" />
+            <element signature="e#4338#4339#0" expanded="true" />
+            <element signature="e#4366#4367#0" expanded="true" />
+            <element signature="e#4403#4404#0" expanded="true" />
+            <element signature="e#4455#4456#0" expanded="true" />
+            <element signature="e#4487#4488#0" expanded="true" />
+            <element signature="e#4530#4531#0" expanded="true" />
+            <element signature="e#4583#4584#0" expanded="true" />
+            <element signature="e#4629#4630#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/wagwalking/WalkFreeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="225">
           <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -753,10 +747,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/wagwalking/VerifyRequiredFieldsTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wagwalking/VerifyTextInFieldTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="300">
+          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -765,42 +759,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/wagwalking/page/PromotionWalkFreePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1304#1305#0" expanded="true" />
-            <element signature="e#1346#1347#0" expanded="true" />
-            <element signature="e#1396#1397#0" expanded="true" />
-            <element signature="e#1444#1445#0" expanded="true" />
-            <element signature="e#1780#1781#0" expanded="true" />
-            <element signature="e#1814#1815#0" expanded="true" />
-            <element signature="e#2166#2167#0" expanded="true" />
-            <element signature="e#2221#2222#0" expanded="true" />
-            <element signature="e#2867#2868#0" expanded="true" />
-            <element signature="e#2895#2896#0" expanded="true" />
-            <element signature="e#2935#2936#0" expanded="true" />
-            <element signature="e#2981#2982#0" expanded="true" />
-            <element signature="e#3108#3109#0" expanded="true" />
-            <element signature="e#3146#3147#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/wagwalking/LoginPageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+        <state relative-caret-position="360">
+          <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/wagwalking/InValidEmailTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wagwalking/ApplyCustomerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        <state relative-caret-position="330">
+          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wagwalking/page/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wagwalking/VerifyRequiredFieldsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -824,6 +816,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -846,6 +839,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
+          <last-edited>12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -870,6 +864,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: com.google.code.findbugs:jsr305:1.3.9</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

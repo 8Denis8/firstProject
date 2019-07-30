@@ -5,7 +5,11 @@ import com.wagwalking.page.PromotionWalkFreePage;
 import org.junit.Assert;
 import org.junit.Test;
 
+import java.util.logging.Logger;
+
 public class VerifyRequiredFieldsTest  extends BaseTest{
+
+    private static Logger log = Logger.getLogger(VerifyRequiredFieldsTest.class.getName());
 
     private HomePage homePage;
     private PromotionWalkFreePage promotionPage;
@@ -23,24 +27,21 @@ public class VerifyRequiredFieldsTest  extends BaseTest{
         promotionPage.clickCellFonField();
         promotionPage.clickPasswordField();
 
-        String emailNote = promotionPage.getRequiredEmailNote();
-        System.out.println(emailNote);
-        Assert.assertEquals("required", emailNote);
 
         String firstNameNote = promotionPage.getRequiredFirstNameNote();
         System.out.println(firstNameNote);
         Assert.assertEquals("required", firstNameNote);
 
         String lastNameNote = promotionPage.getRequiredLastNameNote();
-        System.out.println(lastNameNote);
+        log.info("Error Notification " + lastNameNote);
         Assert.assertEquals("required", lastNameNote);
 
         String cellFonNote = promotionPage.getRequiredCellFonNote();
-        System.out.println(cellFonNote);
+        log.info("Error Notification " + cellFonNote);
         Assert.assertEquals("required", cellFonNote);
 
         String charactersNote = promotionPage.getVerifyPasswordCharactrs();
-        System.out.println(charactersNote);
+        log.info("Error Nitification " + charactersNote);
         Assert.assertTrue(charactersNote.contains("8 Characters"));
 //        Assert.assertEquals("(8 Characters,", charactersNote);
 
